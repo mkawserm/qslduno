@@ -1,4 +1,4 @@
-# Qt Sqlite DtabaseDriver UNO
+# Qt Sqlite3 Dtabase Driver UNO
 
 sqlite3 database with aes128 and aes256 encryption support for qt5.
 
