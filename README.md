@@ -1,4 +1,4 @@
-# Qt Sqlite3 Dtabase Driver UNO
+# Qt SQLite3 Dtabase Driver UNO
 
 sqlite3 database with aes128 and aes256 encryption support for qt5.
 
@@ -20,7 +20,7 @@ Qt
 ====
 Qt is a full development framework with tools designed to streamline the creation of applications and user interfaces for desktop, embedded and mobile platforms. You could find more details at http://qt.io.
 
-Sqlite3
+SQLite3
 =======
 SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source code for SQLite is in the public domain. You could find more details at http://www.sqlite.org/.
 
